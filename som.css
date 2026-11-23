@@ -26,6 +26,8 @@ main {
 
 main img {
   border-radius: 12px;
+  width: 100%;
+  height: auto;
 }
 
 h1 {
@@ -92,6 +94,7 @@ hr {
 
 table {
   width: 100%;
+  border-collapse: collapse;
 }
 
 td {
